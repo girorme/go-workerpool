@@ -4,8 +4,8 @@ import (
 	"flag"
 	"fmt"
 	"sync"
-	"threadsync/httpclient"
 	"time"
+	"workerpool/httpclient"
 
 	"github.com/schollz/progressbar/v3"
 )

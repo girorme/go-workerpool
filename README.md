@@ -13,4 +13,4 @@ $ ./threadsync -t threads
 ```
 
 ### Example
-![usage](usage.gif)
+![usage](example.gif)

@@ -1,4 +1,4 @@
-module threadsync
+module workerpool
 
 go 1.15
 
