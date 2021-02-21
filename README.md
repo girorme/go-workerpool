@@ -9,7 +9,7 @@ Project to study go concurrency
 ### Usage:
 ```
 $ go build
-$ ./threadsync -t threads
+$ ./workerpool -t threads
 ```
 
 ### Example
